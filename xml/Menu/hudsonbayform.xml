@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/hudsonbayimport</path>
+    <page_callback>CRM_Hudsonbayform_Form_HudsonBay</page_callback>
+    <title>HudsonBay</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
